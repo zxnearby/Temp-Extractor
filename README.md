@@ -31,6 +31,7 @@ python main.py
 
 A mesh viewer is included, you can find the source here: [OBJ Viewer](https://github.com/Zehina/3D-.obj-File-Viewer)
 Just drag and drop a mesh from the Meshes folder to the viewer
+
 ![image](https://github.com/zxnearby/Temp-Extractor/assets/71570183/365828d9-ba31-41c6-96f3-8a9d72d2d201)
 
 
