@@ -1,5 +1,5 @@
 # Temp-Extractor
-An extractor for Temp Roblox Assets
+<b>An extractor for Temp Roblox Assets</b>
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="/GitAssets/Layer_1.png">
