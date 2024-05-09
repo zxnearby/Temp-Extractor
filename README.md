@@ -5,7 +5,7 @@
  <img src="/GitAssets/Layer_1.png">
 </picture>
 
-# **An extractor for Roblox's Temp Assets**
+# **A Python extractor for Roblox's Temp Assets**
 
 Little program to dump every file from %localappdata%/Temp/Roblox/http
 
