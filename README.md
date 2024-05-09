@@ -20,3 +20,10 @@ Once you got everything installed, run main.py inside of the cmd:
 ```
 python main.py
 ```
+## Extract Functions
+
++ **Images:** Extracts Images to /Meshes as PNG
++ **Sounds:** Extracts Sounds to /Sounds as OGG
++ **Meshes:** Extracts Meshes to /Meshes as OBJ
++ **Animations:** Extracts Animations to /Animations as rbxm
+
