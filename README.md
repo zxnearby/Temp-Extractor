@@ -12,5 +12,4 @@ Make sure to have python installed. Once you downloaded the source, you will nee
 
 ```
 pip install -r requirements.txt
-
 ```
