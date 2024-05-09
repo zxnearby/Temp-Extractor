@@ -18,7 +18,9 @@ pip install -r requirements.txt
 ```
 ## Usage
 
-**Warning: When you join an experience, all of the downloaded files remain stored in the http folder. If you wish to extract the contents of one specific experience, make sure to clean the folder first.**
+> [!NOTE]
+> **When you join an experience, all of the downloaded files remain stored in the http folder. If you wish to extract the contents of one specific experience, make sure to clean the folder first.**
+
 
 Once you got everything installed, run main.py inside of the cmd:
 
