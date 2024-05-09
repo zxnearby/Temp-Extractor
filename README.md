@@ -6,6 +6,9 @@
 </picture>
 
 # **An extractor for Roblox's Temp Assets**
+
+Little program to dump every file from %localappdata%/Temp/Roblox/http
+
 ## Getting started
 
 Make sure to have python installed. Once you downloaded the source, you will need to install the requirements. To do so, open a cmd inside of the folder and type:
@@ -14,6 +17,8 @@ Make sure to have python installed. Once you downloaded the source, you will nee
 pip install -r requirements.txt
 ```
 ## Usage
+
+**Warning: When you join an experience, all of the downloaded files remain stored in the http folder. If you wish to extract the contents of one specific experience, make sure to clean the folder first.**
 
 Once you got everything installed, run main.py inside of the cmd:
 
@@ -36,5 +41,7 @@ A mesh viewer is included, you can find the source here: [OBJ Viewer](https://gi
 Just drag and drop a mesh from the Meshes folder to the viewer
 
 ![image](https://github.com/zxnearby/Temp-Extractor/assets/71570183/365828d9-ba31-41c6-96f3-8a9d72d2d201)
+
+This little tool has been made by an amateur developer in his free time, so don't expect anything too good. I hope it's a lil useful 
 
 
