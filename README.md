@@ -27,6 +27,9 @@ python main.py
 + **Meshes:** Extracts Meshes to /Meshes as OBJ using the RBXMesh library by [PrintedScript](https://github.com/PrintedScript/RBXMesh)
 + **Animations:** Extracts Animations to /Animations as rbxm
 
+![image](https://github.com/zxnearby/Temp-Extractor/assets/71570183/e6fb707e-d954-4e2b-9981-aa11f7a24dd7)
+
+
 ## Mesh Viewer
 
 A mesh viewer is included, you can find the source here: [OBJ Viewer](https://github.com/Zehina/3D-.obj-File-Viewer)
