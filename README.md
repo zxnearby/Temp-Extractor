@@ -24,6 +24,10 @@ python main.py
 
 + **Images:** Extracts Images to /Meshes as PNG
 + **Sounds:** Extracts Sounds to /Sounds as OGG
-+ **Meshes:** Extracts Meshes to /Meshes as OBJ
++ **Meshes:** Extracts Meshes to /Meshes as OBJ using the RBXMesh library by [PrintedScript](https://github.com/PrintedScript/RBXMesh)
 + **Animations:** Extracts Animations to /Animations as rbxm
+
+## Mesh Viewer
+
+A mesh viewer is included, you can find the source here: [OBJ Viewer](https://github.com/Zehina/3D-.obj-File-Viewer)
 
