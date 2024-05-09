@@ -9,3 +9,8 @@
 ## Getting started
 
 Make sure to have python installed. Once you downloaded the source, you will need to install the requirements. To do so, open a cmd inside of the folder and type:
+
+```
+pip install -r requirements.txt
+
+```
