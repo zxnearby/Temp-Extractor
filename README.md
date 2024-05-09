@@ -13,3 +13,10 @@ Make sure to have python installed. Once you downloaded the source, you will nee
 ```
 pip install -r requirements.txt
 ```
+## Usage
+
+Once you got everything installed, run main.py inside of the cmd:
+
+```
+python main.py
+```
