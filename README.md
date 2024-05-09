@@ -5,4 +5,4 @@
  <img src="/GitAssets/Layer_1.png">
 </picture>
 
-<b>An extractor for Roblox's Temp Assets</b>
+# **An extractor for Roblox's Temp Assets**
